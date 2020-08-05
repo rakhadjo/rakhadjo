@@ -6,6 +6,7 @@
 - 📚  2020 Focus on Back-End Development
 - 🗓  Long Term Goal: Become certified in full-stack development
 - 👀  Fun Fact: I'm into FPS PC games!
+<br />
 
 ---
 
@@ -14,6 +15,8 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />][messenger]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 
 <br />
@@ -47,3 +50,5 @@
 [instagram]: https://instagram.com/rakhadjo
 [linkedin]: https://linkedin.com/in/rakhadjo
 [messenger]: https://m.me/rakhadjo
+[facebook]: https://facebook.com/rakhadjo
+[spotify]: https://open.spotify.com/user/21gebng7mayl42kqhgdbs3lsa?si=Y0N1SyUcQnSYYIudmRF3lA
