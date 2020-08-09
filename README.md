@@ -1,4 +1,4 @@
-### Welcome to my GitHub! 👋
+### Welcome to my GitHub! 👋 This page is 🙈 IN PROGRESS 🙈
 
 ## BSc in Computer Science at The University of Manchester
 - 🚶🏻‍♂️  Head of Corporate Relations at AIESEC in Manchester
@@ -45,10 +45,13 @@
 
 ---
 
-<img align="left" alt="rakhadjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rakhadjo&show_icons=true&hide_border=true" />
+<img align="center" alt="rakhadjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rakhadjo&show_icons=true&hide_border=true" />
+
+Orignal template by codeSTACKr found [here][codestackr]
 
 [instagram]: https://instagram.com/rakhadjo
 [linkedin]: https://linkedin.com/in/rakhadjo
 [messenger]: https://m.me/rakhadjo
 [facebook]: https://facebook.com/rakhadjo
 [spotify]: https://open.spotify.com/user/21gebng7mayl42kqhgdbs3lsa?si=Y0N1SyUcQnSYYIudmRF3lA
+[codestackr]: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
