@@ -15,6 +15,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />][messenger]
+[<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
@@ -27,6 +28,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" >
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" >
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -47,11 +49,10 @@
 
 <img align="center" alt="rakhadjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rakhadjo&show_icons=true&hide_border=true" />
 
-Orignal template by codeSTACKr found [here][codestackr]
-
 [instagram]: https://instagram.com/rakhadjo
 [linkedin]: https://linkedin.com/in/rakhadjo
 [messenger]: https://m.me/rakhadjo
 [facebook]: https://facebook.com/rakhadjo
 [spotify]: https://open.spotify.com/user/21gebng7mayl42kqhgdbs3lsa?si=Y0N1SyUcQnSYYIudmRF3lA
+[whatsapp]: https://wa.me/447871347950
 [codestackr]: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
