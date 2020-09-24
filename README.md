@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakhadjo&color=blueviolet&style=flat" />
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=rakhadjo&color=blueviolet&style=flat" /></a>
   <br>
-  <img align="center" alt="rakhadjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rakhadjo&show_icons=true&hide_border=true&theme=buefy" />
+    <a href="#"><img align="center" alt="rakhadjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rakhadjo&show_icons=true&hide_border=true&theme=buefy" /></a>
 </p>
 
 ```javascript
