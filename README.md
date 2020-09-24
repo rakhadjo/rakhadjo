@@ -22,7 +22,7 @@ const Rakha = {
 
 ### Hi, I'm Rakha, an undergrad in Comp. Sci at The University of Manchester 🤘
 - **Head of Corporate Relations at AIESEC Manchester** 💼 - creating opportunities for young professionals worldwide yearning to develop their leadership & potential by working in the UK job market. I lead the process of prospecting potential business partners in AIESEC Manchester, while ensuring sales routines in a youth-run team. 
-- **Secretary at UniCS Manchester** 👨‍💻 - enforcinfg synergy in the Computer Science Students Society, recording presentation minutes and ensuring routines are run within the society's sub-divisions. 
+- **Secretary at UniCS Manchester** 👨‍💻 - enforcing synergy in the Computer Science Students Society, in addition to recording presentation minutes and ensuring routines are run within the society's sub-divisions. 
 <br />
 
 ---
