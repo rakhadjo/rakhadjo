@@ -20,11 +20,6 @@ const Rakha = {
   "interests": {
     "tech": ["Artifical Intellgience", "Machine Learning", "IoT"],
     "sports": ["scuba diving", "mountain biking", "golf"]
-  },
-  "education": {
-    "institution": "The University of Manchester",
-    "major": "Computer Science",
-    "expected": 2022
   }
 }
 ```
