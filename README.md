@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=rakhadjo&color=blueviolet&style=flat" /></a>
+  <a href="https://komarev.com/ghpvc/?username=rakhadjo&color=blueviolet&style=flat><img src="https://komarev.com/ghpvc/?username=rakhadjo&color=blueviolet&style=flat" /></a>
   <br>
     <a href="#"><img align="center" alt="rakhadjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rakhadjo&show_icons=true&hide_border=true&theme=buefy" /></a>
 </p>
