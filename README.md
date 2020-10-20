@@ -13,7 +13,11 @@ const Rakha = {
   "pronouns": ["he", "him"],
   "tech_stack": {
     "languages": ["Java", "Python", "JavaScript", "C", "C++", "HTML", "CSS", "SQL"],
-    "frameworks": ["Spring Boot", "Flask", "GatsbyJS"],
+    "frameworks": {
+      "java": ["Spring Boot"],
+      "python": ["Flask"],
+      "js": ["GatsbyJS", "ExpressJS"]
+    },
     "libraries": ["Bootstrap", "React"],
     "tools": ["VS Code", "Apache Netbeans", "Docker", "GitHub", "MySQL", "MongoDB", "Heroku"]
   },
