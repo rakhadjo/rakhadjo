@@ -4,8 +4,7 @@
 </p>
 
 ### Hi, I'm Rakha, an undergrad in Comp. Sci at The University of Manchester 🤘
-- **Head of Corporate Relations at AIESEC Manchester** 💼 - creating opportunities for young professionals worldwide yearning to develop their leadership & potential by working in the UK job market. I lead the process of prospecting potential business partners in AIESEC Manchester, while ensuring sales routines in a youth-run team. 
-- **Secretary at UniCS Manchester** 👨‍💻 - enforcing synergy in the Computer Science Students Society, in addition to recording presentation minutes and ensuring routines are run within the society's sub-divisions. 
+- **President at UniCS Manchester** 👨‍💻 - the premier computer science student society at the University of Manchester. Overseeing the planning & execution of tech-based events (hackathons, tech-talks, etc), their promotions, and the development of games & dev projects. Responsible for maintaining a good relationship with the School of Computer Science faculty & students, and the Students' Union.
 - **Head of Professional Development at PPIGM** 🇮🇩🇬🇧 - in charge of developing the professional employability of Indonesian Students in Greater Manchester by hosting online workshops and inviting industry-speakers for webinar events.
 ---
 ```javascript
@@ -33,6 +32,7 @@ const Rakha = {
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 ---
 
@@ -43,3 +43,4 @@ const Rakha = {
 [spotify]: https://open.spotify.com/user/21gebng7mayl42kqhgdbs3lsa?si=Y0N1SyUcQnSYYIudmRF3lA
 [whatsapp]: https://wa.me/447871347950
 [codestackr]: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
+[twitter]: https://twitter.com/rakhadjo
