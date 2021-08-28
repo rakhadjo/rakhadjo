@@ -5,6 +5,7 @@
 
 ### Hi, I'm Rakha, an undergrad in Comp. Sci at The University of Manchester 🤘
 - **President at UniCS Manchester** 👨‍💻 - the premier computer science student society at the University of Manchester. Overseeing the planning & execution of tech-based events (hackathons, tech-talks, etc), their promotions, and the development of games & dev projects. Responsible for maintaining a good relationship with the School of Computer Science faculty & students, and the Students' Union.
+- **Dev Officer at GarudaHQ** 🦅🇮🇩 - Responsible for the tech development and hackathon experience for the upcoming Indonesian Hackathon - GarudaHacks 2021 hosted online.
 - **Head of Professional Development at PPIGM** 🇮🇩🇬🇧 - in charge of developing the professional employability of Indonesian Students in Greater Manchester by hosting online workshops and inviting industry-speakers for webinar events.
 ---
 ```javascript
