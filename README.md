@@ -5,8 +5,7 @@
 
 ### Hi, I'm Rakha, an undergrad in Comp. Sci at The University of Manchester 🤘
 - **President at PPIGM** 🇮🇩🇬🇧 - the Indonesian students association in all of Greater Manchester, encompassing the University of Manchester, Manchester Metropolitan University, University of Salford, among all others. Main point of contact between the Indonesians in Manchester and the Embassy in London, among other organizations. Supervising, advising the planning and execution of Indonesian events, internal and external. 
-- **President at UniCS Manchester** 👨‍💻 - the premier computer science student society at the University of Manchester. Overseeing the planning & execution of tech-based events (hackathons, tech-talks, etc), their promotions, and the development of games & dev projects. Responsible for maintaining a good relationship with the School of Computer Science faculty & students, and the Students' Union.
-- **Dev Officer at GarudaHQ** 🦅🇮🇩 - Responsible for the tech development and hackathon experience for the upcoming Indonesian Hackathon - GarudaHacks 2021 hosted online.
+- **Embedded Systems Engineer at ARM** - Undergraduate Summer Placement at ARM Ltd, placed in the debugging team within the ARM Partner Enablement Group, tasked with providing support to an on-chip trace data generator by means of kernel flashing and documentation. 
 ---
 ```javascript
 const Rakha = {
