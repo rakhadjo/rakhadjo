@@ -4,8 +4,8 @@
 </p>
 
 ### Hi, I'm Rakha, an undergrad in Comp. Sci at The University of Manchester 🤘
-- **President at PPIGM** 🇮🇩🇬🇧 - the Indonesian students association in all of Greater Manchester, encompassing the University of Manchester, Manchester Metropolitan University, University of Salford, among all others. Main point of contact between the Indonesians in Manchester and the Embassy in London, among other organizations. Supervising, advising the planning and execution of Indonesian events, internal and external. 
-- **Embedded Systems Engineer at ARM** - Undergraduate Summer Placement at ARM Ltd, placed in the debugging team within the ARM Partner Enablement Group, tasked with providing support to an on-chip trace data generator by means of kernel flashing and documentation. 
+- **Head of Technology at PPIUK** 🇮🇩🇬🇧 - the Indonesian students association in all of the United Kingdom of Great Britain and Northern Ireland. Executing the Indonesian Student Census Program in the UK for a population of 3000+ students. Responsible for the procurement of subdomains and organizational emails for 150+ staff members and 30+ local PPI Chapters throughout the UK. 
+- **Embedded Systems Engineer at ARM** - Undergraduate Summer Placement at ARM Ltd, placed in the debugging team within the ARM Partner Enablement Group in support building for Non-Invasive Debugging on the ARM Juno Development Board.
 ---
 ```javascript
 const Rakha = {
